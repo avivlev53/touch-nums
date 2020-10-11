@@ -1,0 +1,20 @@
+.table {
+    border: 2px solid black;
+    margin: 0 auto;
+    background-color: red;
+}
+.table td {
+    background-color: pink;
+    text-align: center;
+    width: 60px;
+    height: 60px;
+    font-size: 20px;
+   
+}
+body {
+    text-align: center;
+    background-color: rgb(247, 105, 126);
+}
+td :hover{
+    cursor: pointer;
+}
